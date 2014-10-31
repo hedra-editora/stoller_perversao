@@ -1,0 +1,10 @@
+;;; xindy style file
+
+(markup-letter-group :open-head "~n\textbf{\Large " :close-head "}" :capitalize)
+
+;;;(markup-locclass-list :open ", " :close "")
+;;;(markup-keyword-list :open "" :close ", ")
+(markup-crossref-list :class "see" :open "\textsc{ver} ")
+
+(define-attributes ( "nn" ))
+(markup-locref :attr "nn" :open "\hyperpage{" :close "}n")

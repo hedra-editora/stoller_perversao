@@ -1,0 +1,17 @@
+\documentclass[showtrims,12pt,conselho,spreadimages]{memoir}
+\usepackage[largepost]{hedra}
+\usepackage{makeidx}
+\usepackage[initsep=20pt plus 5pt minus 3pt]{idxlayout}
+
+\newcommand{\nn}{n.}
+
+\makeindex
+\onecolindex
+
+
+\begin{document}
+\include{INPUTS}
+\addtocontents{toc}{\protect\enlargethispage{\baselineskip}}
+\printindex
+
+\end{document}
