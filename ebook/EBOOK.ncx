@@ -1,6 +1,6 @@
 
    <?xml version="1.0"?> 
- <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">                 <head> 
+  <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">                       <head> 
  <meta name="dtb:uid" content="http://hedra.com.br"/> 
  <meta name="dtb:depth" content="3"/> 
  <meta name="dtb:totalPageCount" content="0"/> 
@@ -18,14 +18,14 @@
      
 <navPoint id="navPoint-2" playOrder="2"> 
 <navLabel> 
-<text>2    Introdução</text> 
+<text>2
+Introdução</text> 
 </navLabel> 
 <content src="EBOOKch2.html#x3-40002" />  </navPoint> 
      
 <navPoint id="navPoint-3" playOrder="3"> 
 <navLabel> 
-<text>I
-Parte i: Deﬁnição</text> 
+<text>I  Parte i: Deﬁnição</text> 
 </navLabel> 
 <content src="EBOOKch2.html#x3-5000I" />       
 <navPoint id="navPoint-4" playOrder="4"> 
@@ -43,14 +43,15 @@ class="newline" />O impacto dos novos avanços da pesquisa sexual na teoria psic
 <content src="EBOOKch4.html#x5-70004" />      
 <navPoint id="navPoint-6" playOrder="6"> 
 <navLabel> 
-<text>4.1    Bissexualidade
-constitucional</text> 
+<text>4.1
+Bissexualidade constitucional</text> 
 </navLabel> 
 <content src="EBOOKse1.html#x6-80004.1" />  </navPoint> 
     
 <navPoint id="navPoint-7" playOrder="7"> 
 <navLabel> 
-<text>4.2   A sexualidade infantil e o Complexo de Édipo</text> 
+<text>4.2   A sexualidade infantil e o Complexo de
+Édipo</text> 
 </navLabel> 
 <content src="EBOOKse2.html#x7-90004.2" />  </navPoint> 
     
@@ -59,8 +60,7 @@ constitucional</text>
 <text>4.3   O primado do pênis</text> 
 </navLabel> 
 <content src="EBOOKse3.html#x8-100004.3" />  </navPoint> 
-
- 
+    
 <navPoint id="navPoint-9" playOrder="9"> 
 <navLabel> 
 <text>4.4   A teoria da libido</text> 
@@ -69,23 +69,24 @@ constitucional</text>
     
 <navPoint id="navPoint-10" playOrder="10"> 
 <navLabel> 
-<text>4.5   O conﬂito</text> 
+<text>4.5   O
+conﬂito</text> 
 </navLabel> 
-<content src="EBOOKse5.html#x10-120004.5" />  </navPoint> 
+<content src="EBOOKse5.html#x10-120004.5" /> </navPoint> 
     
 <navPoint id="navPoint-11" playOrder="11"> 
 <navLabel> 
 <text>4.6   Genética e constituição</text> 
 </navLabel> 
-<content src="EBOOKse6.html#x11-130004.6" />  </navPoint> 
+<content src="EBOOKse6.html#x11-130004.6" /> </navPoint> 
     
 <navPoint id="navPoint-12" playOrder="12"> 
 <navLabel> 
-<text>4.7   A teoria
-da aprendizagem</text> 
+<text>4.7   A teoria da aprendizagem</text> 
 </navLabel> 
-<content src="EBOOKse7.html#x12-140004.7" />  </navPoint> 
-    
+<content src="EBOOKse7.html#x12-140004.7" /> </navPoint> 
+
+ 
 <navPoint id="navPoint-13" playOrder="13"> 
 <navLabel> 
 <text>4.8   “Taxinomia”</text> 
@@ -104,67 +105,68 @@ da aprendizagem</text>
 <text>5   Capítulo 3<br 
 class="newline" />Variações: aberrações que não são perversões</text> 
 </navLabel> 
-<content src="EBOOKch5.html#x15-170005" />       
+<content src="EBOOKch5.html#x15-170005" />      
 <navPoint id="navPoint-16" playOrder="16"> 
 <navLabel> 
-<text>5.1    Fatores genéticos e outros fatores
-constitucionais</text> 
+<text>5.1   Fatores genéticos e
+outros fatores constitucionais</text> 
 </navLabel> 
 <content src="EBOOKse10.html#x16-180005.1" />  </navPoint> 
-     
+    
 <navPoint id="navPoint-17" playOrder="17"> 
 <navLabel> 
-<text>5.2    Transtornos pós-natais da função cerebral</text> 
+<text>5.2   Transtornos pós-natais da função
+cerebral</text> 
 </navLabel> 
 <content src="EBOOKse11.html#x17-190005.2" />  </navPoint> 
-     
+    
 <navPoint id="navPoint-18" playOrder="18"> 
 <navLabel> 
-<text>5.3    Identidade
-hermafrodita</text> 
+<text>5.3   Identidade hermafrodita</text> 
 </navLabel> 
 <content src="EBOOKse12.html#x18-200005.3" />  </navPoint> 
-     
+    
 <navPoint id="navPoint-19" playOrder="19"> 
 <navLabel> 
-<text>5.4    Transexualismo masculino</text> 
+<text>5.4   Transexualismo
+masculino</text> 
 </navLabel> 
 <content src="EBOOKse13.html#x19-210005.4" />  </navPoint> 
-     
+    
 <navPoint id="navPoint-20" playOrder="20"> 
 <navLabel> 
-<text>5.5    Variações culturais</text> 
+<text>5.5   Variações culturais</text> 
 </navLabel> 
 <content src="EBOOKse14.html#x20-220005.5" />  </navPoint> 
-     
+    
 <navPoint id="navPoint-21" playOrder="21"> 
 <navLabel> 
-<text>5.6
-Faute de Mieux</text> 
+<text>5.6   Faute de Mieux</text> 
 </navLabel> 
 <content src="EBOOKse15.html#x21-230005.6" />  </navPoint> 
-     
+
+ 
 <navPoint id="navPoint-22" playOrder="22"> 
 <navLabel> 
-<text>5.7    O argumento animal: uma pretensa desculpa</text> 
+<text>5.7   O argumento animal: uma pretensa desculpa</text> 
 </navLabel> 
 <content src="EBOOKse16.html#x22-240005.7" />  </navPoint> 
 </navPoint> 
-     
+    
 <navPoint id="navPoint-23" playOrder="23"> 
 <navLabel> 
-<text>6    Capítulo 4<br 
+<text>6   Capítulo 4<br 
 class="newline" />Perversões: aberrações que não são variações</text> 
 </navLabel> 
 <content src="EBOOKch6.html#x23-250006" />  </navPoint> 
 </navPoint> 
-     
+      
 <navPoint id="navPoint-24" playOrder="24"> 
 <navLabel> 
-<text>II  Parte ii: Dinâmicas: trauma, hostilidade,
-perigo e vingança</text> 
+<text>II  Parte ii:
+Dinâmicas: trauma, hostilidade, perigo e vingança</text> 
 </navLabel> 
-<content src="EBOOKch6.html#x23-26000II" />       
+<content src="EBOOKch6.html#x23-26000II" />      
 <navPoint id="navPoint-25" playOrder="25"> 
 <navLabel> 
 <text>7    Capítulo 5<br 
@@ -180,103 +182,105 @@ class="newline" />Hostilidade e mistério na perversão</text>
 <content src="EBOOKch8.html#x25-280008" />     
 <navPoint id="navPoint-27" playOrder="27"> 
 <navLabel> 
-<text>8.1   A implicação da responsabilidade moral</text> 
+<text>8.1   A implicação da responsabilidade
+moral</text> 
 </navLabel> 
-<content src="EBOOKse17.html#x26-290008.1" /> </navPoint> 
+<content src="EBOOKse17.html#x26-290008.1" />  </navPoint> 
     
 <navPoint id="navPoint-28" playOrder="28"> 
 <navLabel> 
-<text>8.2   O mistério e o
-papel da hostilidade na perversão</text> 
+<text>8.2   O mistério e o papel da hostilidade na perversão</text> 
 </navLabel> 
-<content src="EBOOKse18.html#x27-300008.2" /> </navPoint> 
+<content src="EBOOKse18.html#x27-300008.2" />  </navPoint> 
     
 <navPoint id="navPoint-29" playOrder="29"> 
 <navLabel> 
-<text>8.3   Perversão e normalidade</text> 
+<text>8.3
+Perversão e normalidade</text> 
 </navLabel> 
-<content src="EBOOKse19.html#x28-310008.3" /> </navPoint> 
-    
+<content src="EBOOKse19.html#x28-310008.3" />  </navPoint> 
+     
 <navPoint id="navPoint-30" playOrder="30"> 
 <navLabel> 
-<text>8.4   Agressão</text> 
+<text>8.4    Agressão</text> 
 </navLabel> 
-<content src="EBOOKse20.html#x29-320008.4" /> </navPoint> 
+<content src="EBOOKse20.html#x29-320008.4" />  </navPoint> 
 </navPoint> 
-    
+     
 <navPoint id="navPoint-31" playOrder="31"> 
 <navLabel> 
-<text>9   Capítulo 7<br 
+<text>9    Capítulo 7<br 
 class="newline" />Perversão: perigo versus enfado</text> 
 </navLabel> 
 <content src="EBOOKch9.html#x30-330009" />      
 <navPoint id="navPoint-32" playOrder="32"> 
 <navLabel> 
-<text>9.1    A fantasia sexual</text> 
+<text>9.1   A fantasia sexual</text> 
 </navLabel> 
 <content src="EBOOKse21.html#x31-340009.1" />  </navPoint> 
-     
+    
 <navPoint id="navPoint-33" playOrder="33"> 
 <navLabel> 
-<text>9.2    Fatores de Segurança</text> 
+<text>9.2
+Fatores de Segurança</text> 
 </navLabel> 
-<content src="EBOOKse22.html#x32-350009.2" />
-</navPoint> 
-   
+<content src="EBOOKse22.html#x32-350009.2" />  </navPoint> 
+    
 <navPoint id="navPoint-34" playOrder="34"> 
 <navLabel> 
-<text>9.3    Material clínico</text> 
+<text>9.3   Material clínico</text> 
 </navLabel> 
 <content src="EBOOKse23.html#x33-360009.3" />  </navPoint> 
-     
+    
 <navPoint id="navPoint-35" playOrder="35"> 
 <navLabel> 
-<text>9.4    Clivagem, Desumanização, Fetichização, Idealização:
-Anulação</text> 
+<text>9.4   Clivagem,
+Desumanização, Fetichização, Idealização: Anulação</text> 
 </navLabel> 
 <content src="EBOOKse24.html#x34-370009.4" />  </navPoint> 
 </navPoint> 
-     
+    
 <navPoint id="navPoint-36" playOrder="36"> 
 <navLabel> 
-<text>10    Capítulo 8<br 
+<text>10   Capítulo 8<br 
 class="newline" />A angústia da simbiose e o<br 
 class="newline" />desenvolvimento da masculinidade</text> 
 </navLabel> 
-<content src="EBOOKch10.html#x35-3800010" />      
+<content src="EBOOKch10.html#x35-3800010" />       
 <navPoint id="navPoint-37" playOrder="37"> 
 <navLabel> 
-<text>10.1    Duas teorias sobre o desenvolvimento masculino</text> 
+<text>10.1    Duas teorias sobre o
+desenvolvimento masculino</text> 
 </navLabel> 
 <content src="EBOOKse25.html#x36-3900010.1" />  </navPoint> 
-
- 
+    
 <navPoint id="navPoint-38" playOrder="38"> 
 <navLabel> 
-<text>10.2    A “evidência” transexual</text> 
+<text>10.2   A “evidência” transexual</text> 
 </navLabel> 
 <content src="EBOOKse26.html#x37-4000010.2" />  </navPoint> 
-     
+    
 <navPoint id="navPoint-39" playOrder="39"> 
 <navLabel> 
-<text>10.3    A patogenia da “homossexualidade latente”</text> 
+<text>10.3
+A patogenia da “homossexualidade latente”</text> 
 </navLabel> 
-<content src="EBOOKse27.html#x38-4100010.3" />
-</navPoint> 
-   
+<content src="EBOOKse27.html#x38-4100010.3" />  </navPoint> 
+    
 <navPoint id="navPoint-40" playOrder="40"> 
 <navLabel> 
-<text>10.4    A simbiose com relação à identidade de gênero</text> 
+<text>10.4   A simbiose com
+relação à identidade de gênero</text> 
 </navLabel> 
 <content src="EBOOKse28.html#x39-4200010.4" />  </navPoint> 
      
 <navPoint id="navPoint-41" playOrder="41"> 
 <navLabel> 
-<text>10.5    A angústia da
-simbiose</text> 
+<text>10.5    A angústia da simbiose</text> 
 </navLabel> 
 <content src="EBOOKse29.html#x40-4300010.5" />  </navPoint> 
-     
+
+ 
 <navPoint id="navPoint-42" playOrder="42"> 
 <navLabel> 
 <text>10.6    A perversão</text> 
@@ -300,26 +304,27 @@ class="newline" />Um delito assume a forma de um ato sexual</text>
      
 <navPoint id="navPoint-45" playOrder="45"> 
 <navLabel> 
-<text>III  Parte iii: Aspectos sociais da questão</text> 
+<text>III  Parte iii:
+Aspectos sociais da questão</text> 
 </navLabel> 
-<content src="EBOOKch11.html#x43-47000III" />
- 
+<content src="EBOOKch11.html#x43-47000III" />       
 <navPoint id="navPoint-46" playOrder="46"> 
 <navLabel> 
 <text>12    Capítulo 10<br 
 class="newline" />A homossexualidade é um diagnóstico?</text> 
 </navLabel> 
-<content src="EBOOKch12.html#x44-4800012" />      
+<content src="EBOOKch12.html#x44-4800012" />       
 <navPoint id="navPoint-47" playOrder="47"> 
 <navLabel> 
-<text>12.1   Critérios para diagnosticar</text> 
+<text>12.1    Critérios para
+diagnosticar</text> 
 </navLabel> 
 <content src="EBOOKse32.html#x45-4900012.1" />  </navPoint> 
 </navPoint> 
-    
+     
 <navPoint id="navPoint-48" playOrder="48"> 
 <navLabel> 
-<text>13   Capítulo 11<br 
+<text>13    Capítulo 11<br 
 class="newline" />Sexo e pecado</text> 
 </navLabel> 
 <content src="EBOOKch13.html#x46-5000013" />  </navPoint> 

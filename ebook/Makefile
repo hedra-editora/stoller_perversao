@@ -1,4 +1,6 @@
 all:
+	-cp ../*.tex .
+	-cp ../fichatecnica.sty .
 	tex4ebook -i -f epub3 -c tex4ht EBOOK.tex 	
 epub-normal:	
 	tex4ebook -i -c tex4ht EBOOK.tex 	

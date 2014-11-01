@@ -1,33 +1,21 @@
  
 /* start css.sty */
-.cmr-7{font-size:63%;}
 .cmr-10{font-size:90%;}
 .cmr-10x-x-109{}
 .cmr-9{font-size:81%;}
-.OrnementsADF-x-x-109{}
-.cmbx-10{font-size:90%; font-weight: bold;}
-.cmbx-10{ font-weight: bold;}
-.cmbx-10{ font-weight: bold;}
-.cmbsy-10{font-size:90%;font-weight: bold;}
-.cmti-7{font-size:63%; font-style: italic;}
-.cmcsc-10x-x-70{font-size:63%;}
-.cmbx-12x-x-120{font-size:130%; font-weight: bold;}
-.cmbx-12x-x-120{ font-weight: bold;}
-.cmbx-12x-x-120{ font-weight: bold;}
 .cmr-17{font-size:154%;}
 .cmr-12{font-size:109%;}
+.cmsy-6{font-size:54%;}
+.cmti-10x-x-109{ font-style: italic;}
+.cmcsc-10x-x-109{}
 .cmcsc-10x-x-90{font-size:81%;}
 .cmti-9{font-size:81%; font-style: italic;}
+.cmsy-10x-x-109{}
 .cmti-12{font-size:109%; font-style: italic;}
-.cmsl-8x-x-87{font-size:63%;font-style: oblique;}
+.cmsl-10x-x-109{font-style: oblique;}
 .cmti-10{font-size:90%; font-style: italic;}
 .cmcsc-10{font-size:90%;}
 .cmbx-10x-x-109{ font-weight: bold;}
-.cmbx-10x-x-109{ font-weight: bold;}
-.cmbx-10x-x-109{ font-weight: bold;}
-.cmcsc-10x-x-109{}
-.cmti-10x-x-109{ font-style: italic;}
-.cmsy-10x-x-109{}
 .small-caps{font-variant: small-caps; }
 p.noindent { text-indent: 0em }
 td p.noindent { text-indent: 0em; margin-top:0em; }
