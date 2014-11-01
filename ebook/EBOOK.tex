@@ -1,0 +1,23 @@
+\documentclass[11pt]{memoir} %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[ebook]{hedra}
+
+\newcommand{\subtitulo}[1]{}
+
+\newcommand{\tit}[1]{\item #1}
+\newcommand{\titidem}{____.}
+\newcommand{\bm}{}
+
+\begin{document}
+
+\ifdef{\dircapa}{\coverimage{\dircapa}{}}{\coverimage{capa.png}}
+\Configure{tableofcontents*}{chapter}
+\Configure{UniqueIdentifier}{http://hedra.com.br}
+\Configure{CoverMimeType}{image/png}
+
+\maketitle
+
+\include{INPUTS}
+
+\end{document}
+
+
