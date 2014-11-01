@@ -1,13 +1,13 @@
 # Fdb version 3
-["makeindex LIVRO.idx"] 1414782670 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1414783381
-  "LIVRO.idx" 1414782679 89471 e81e28f47cab4aee8935b98c54d68664 ""
+["makeindex LIVRO.idx"] 1414850652 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1414850662
+  "LIVRO.idx" 1414850662 89471 2a5de2ad385e8766c2c7c6457188533a ""
   (generated)
   "LIVRO.ilg"
   "LIVRO.ind"
-["pdflatex"] 1414782675 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1414783381
+["pdflatex"] 1414850657 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1414850662
   "/etc/texmf/web2c/texmf.cnf" 1402185147 1101 af7716885e081ab43982cab7b4672c1a ""
   "/home/jorge/texmf/tex/PUBLICIDADE.tex" 1400712227 8801 095ba32970e75138ecdae0fad2b77635 ""
-  "/home/jorge/texmf/tex/aparatos.sty" 1414436971 23267 34122bcd0e4517560b1acc488c052c13 ""
+  "/home/jorge/texmf/tex/aparatos.sty" 1414850642 23268 bcf210bf4d7c93ac7df58e0c3cfdbe59 ""
   "/home/jorge/texmf/tex/graficos.sty" 1400002974 4467 689ddf5096cc41a2ae2cea6009cf1d8b ""
   "/home/jorge/texmf/tex/hedra.sty" 1411419485 6208 da2f9ed14f356d8a9fec90c8a94e92b9 ""
   "/home/jorge/texmf/tex/hedraextra.sty" 1414685233 5803 b0d1831d1d96aa82511f070ad8291a93 ""
@@ -178,15 +178,15 @@
   "/var/lib/texmf/tex/generic/babel/babel.sty" 1402185620 9196 b0eed93973ffa0495820c7a8ffa1a269 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1402185657 3126283 1220f61fb01e6a9ba06dac769a4b9d01 ""
   "INDICE.tex" 1414782528 42396 ca1f4cb0be8fb53e850a18304c7d6e07 ""
-  "INPUTS.aux" 1414782679 110622 06e4e57b2dbae1b851da0847a954029d ""
+  "INPUTS.aux" 1414850661 110622 d46cec34221d2d80555a284967c1b06b ""
   "INPUTS.tex" 1414782528 51 bc08430f34de163c78fa478d8436c53d ""
   "INTRODUCAO.tex" 1414782528 44759 27e8dcda9849434f3e638fa7a951b810 ""
-  "LIVRO.aux" 1414782679 527 6efe2ff2191f675bb8da0191672f916a ""
-  "LIVRO.ind" 1414782670 27518 f48543e0d04365c4af0ae37f53f13e26 "makeindex LIVRO.idx"
+  "LIVRO.aux" 1414850662 527 6efe2ff2191f675bb8da0191672f916a ""
+  "LIVRO.ind" 1414850652 27518 027d0868dd3743ef410efcf39b6968ae "makeindex LIVRO.idx"
   "LIVRO.tex" 1414782528 340 a1b7fc71af04360372fdfdfd32e70303 ""
-  "LIVRO.toc" 1414782679 3685 0f2978196e2ea438d1d4ba328cb67786 ""
-  "ORIGINAL.tex" 1414782528 559196 a2051b8a203f541917fdd580bf2f2437 ""
-  "PUBLICIDADE.aux" 1414782679 1733 a2a2b452944a9f434988723d091541bd ""
+  "LIVRO.toc" 1414850662 3685 0f2978196e2ea438d1d4ba328cb67786 ""
+  "ORIGINAL.tex" 1414850150 559334 ff37ddf3c8cfa2d105b40dae40ce499e ""
+  "PUBLICIDADE.aux" 1414850662 1733 a2a2b452944a9f434988723d091541bd ""
   "fichatecnica.sty" 1414782528 2170 213cfdfc1e4bee98eb416623717fe579 ""
   "img/ilustracao.png" 1414782528 1895504 b3be98afc802c92d6321b0447e2b0291 ""
   (generated)
