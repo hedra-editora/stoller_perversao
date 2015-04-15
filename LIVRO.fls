@@ -364,8 +364,8 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm
 INPUT LIVRO.ind
 INPUT LIVRO.ind
 OUTPUT PUBLICIDADE.aux
-INPUT /home/editorial/texmf/tex/PUBLICIDADE.tex
-INPUT /home/editorial/texmf/tex/PUBLICIDADE.tex
+INPUT PUBLICIDADE.tex
+INPUT PUBLICIDADE.tex
 INPUT ficha.png
 INPUT ficha.png
 OUTPUT LIVRO.toc
