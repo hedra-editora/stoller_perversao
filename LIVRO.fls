@@ -263,8 +263,6 @@ INPUT /usr/share/texmf-dist/tex/latex/tipa/t3cmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/tipa/t3cmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
-INPUT front.png
-INPUT front.png
 OUTPUT LIVRO.xdv
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
@@ -333,8 +331,6 @@ INPUT LIVRO.ind
 OUTPUT PUBLICIDADE.aux
 INPUT PUBLICIDADE.tex
 INPUT PUBLICIDADE.tex
-INPUT ficha.png
-INPUT ficha.png
 OUTPUT LIVRO.toc
 INPUT LIVRO.aux
 INPUT INPUTS.aux
