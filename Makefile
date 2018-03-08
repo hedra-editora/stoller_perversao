@@ -38,7 +38,7 @@ rubber-test:
 rubber-clean:
 	rubber --clean LIVRO.tex
 clean:
-	-rm *aux *_latexmk *.fls *log *tui *toc *.4ct *.4tc *.html *.css *.dvi *.epub *.lg *.ncx *.xref *.tmp *.idv *.opf *.png  LIVRO.pdf
+	-rm *aux *_latexmk *.fls *log *tui *toc *.4ct *.4tc *.html *.css *.dvi *.epub *.lg *.ncx *.xref *.tmp *.idv *.opf LIVRO.pdf
 	-rm -rf EBOOK-epub
 	-rm -rf EBOOK-epub3
 	-rm -rf EBOOK-mobi
